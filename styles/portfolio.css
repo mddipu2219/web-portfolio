@@ -70,3 +70,19 @@ header {
 .third-section-first {
   background-image: url(../new-year-new-me/images/gradient2.png);
 }
+/* footer */
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 200px;
+  background-color: black;
+  color: white;
+  padding: 100px;
+  margin: 0%;
+}
+.footer-tittle {
+  text-emphasis: center;
+}
+.footer-paragraph {
+  text-align: start;
+}
