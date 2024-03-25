@@ -45,7 +45,7 @@ header {
   gap: 20px;
 }
 .second-section {
-  margin: 150px 100px;
+  margin: 100px 100px;
   text-align: center;
   border-radius: 5px;
   border: none;
@@ -53,4 +53,20 @@ header {
 }
 .second-tittle {
   font-size: 20px;
+}
+/* third section */
+#last-section {
+  background-image: url("../new-year-new-me/images/watch.png");
+  background-size: 100%;
+  padding: 100px 50px;
+  margin: 100px;
+}
+.secondary-btn {
+  background: white;
+  padding: 10px;
+  border: none;
+  color: rgb(197, 99, 7);
+}
+.third-section-first {
+  background-image: url(../new-year-new-me/images/gradient2.png);
 }
