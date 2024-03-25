@@ -25,3 +25,16 @@ header {
   padding: 10px;
   border: none;
 }
+/* section */
+.first-section-container {
+  margin-top: 150px;
+  padding: 80px;
+}
+.section {
+  display: flex;
+  text-align: left;
+  gap: 150px;
+}
+.picture {
+  background-color: white;
+}
