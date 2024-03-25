@@ -1,7 +1,7 @@
 /* header */
 header {
   display: flex;
-  gap: 50px;
+  gap: 150px;
 }
 .header-tittle {
   width: 50%;
